@@ -3,7 +3,8 @@
 1. ***Página de Inicio:***
 * Para acceder a la página los usuarios deberán estar registrados en la aplicación móvil.
 ---
-![Captura de pantalla 2024-03-08 054725](https://github.com/AlejandroDuque03/Entrega_proyecto_1/assets/162667665/8a19ebfd-0cb7-4564-a7a2-58e4d810ba31)
+
+![Captura de pantalla 2024-03-08 062245](https://github.com/AlejandroDuque03/Entrega_proyecto_1/assets/162667665/aa2d2423-a055-4e28-abf4-5e3572cb0915)
 
 ---
 2. ***Página destacados:***
